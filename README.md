@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm zeroday</h1>
 <h3 align="center">i transform coffee into code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeroday-z" alt="zeroday-z" /></a> </p>
+
 
 - 🔭 I’m currently working on **PARADOX**
 
