@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm zeroday</h1>
 <h3 align="center">i transform coffee into code.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroday-z&label=Profile%20views&color=0e75b6&style=flat" alt="zeroday-z" /> </p>
 
 - 🔭 I’m currently working on **PARADOX**
 
